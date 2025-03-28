@@ -20,7 +20,7 @@
 class Colony:
     # properties, Fields
     let = 0
-    name = "Em Esh"
+    name = "WhyNeed"
     
 
 house1 = Colony()
@@ -29,7 +29,7 @@ print(house1.name)
 
 house2 = Colony()
 house2.let = 1
-house2.name = "Dilip MD"
+house2.name = "WHY?"
 print(house2.let)
 print(house2.name)
 
@@ -37,7 +37,7 @@ print(house2.name)
 
 
 class Kist:
-    faculty = "deprt"
+    faculty = "DEPART"
     head = "Name"
     sem = 0
     
@@ -48,11 +48,11 @@ class Kist:
         
         print(f"{faculty} {head} {sem}")
         
-bit = Kist("BIT","Em Esh",5)
+bit = Kist("BIT","WhyNeed",5)
 
 
 class Kist:
-    faculty = "deprt"
+    faculty = "DEPART"
     head = "Name"
     sem = 0
     
