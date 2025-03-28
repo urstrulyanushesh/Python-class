@@ -130,17 +130,17 @@ obj6.showDetails()
 
 
 class A:
-    name1 = "Em Esh"
+    name1 = "WhyAgain"
     def show1(self):
         print("Parent Level one")
         
 class B(A):
-    name2 = "Em Esh Thapa"
+    name2 = "WhyAgainHell"
     def show2(self):
         print("Parent Level Two")
         
 class C(B):
-    name3 = "Em Esh Thapa Magar"
+    name3 = "What the hell"
     def show3(self):
         print("Parent Level Third")
         
@@ -162,7 +162,7 @@ obj8.show1()
 # hiearchy
 
 class GP:
-    last_name = "Magar"
+    last_name = "hell"
     def show(self):
         print("Grand Parents")
         
